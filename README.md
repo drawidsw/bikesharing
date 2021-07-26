@@ -26,4 +26,15 @@ The following seven results are presented to the investors.
 | 7 | Male subscribers by far outnumber all other user types. Their demand peaks at Thursdays. | [User Trips by Gender](https://public.tableau.com/app/profile/swapna.drawid/viz/bikesharing4/Sheet4) |
 
 
+# Conclusions and Future
 
+The company looks promosing to the investors.
+* An overwhelming majority of its users are that of subscribers. The company also has an automated system in place to check bikes out for its subscribers are reserve them.
+* The company has the ability to track where and when most bikes are rented out and who rents them out. This helps them in provision enough bikes to meet peak demand.
+* Overall for the month of August, over 2.4M bikes are rented out. Assuming $5 per rental, this translates to $12M revenue for the month of August.
+
+There is some future work that needs to be done.
+
+* We expect bike rentals will peak in August as it is the last month of summer. We need bike rental data for all 12 months, expecially in the winter months to get a true picture of annual revenues. We expect bike rentals will dip in the peak winter months of December - February.
+  * A simple visualization here is to show bike rentals per month - this can be done by adding the **month as a measure**, bike rentals in **size** of the **marks** sections and showing the data as a **bar chart**.
+* We would also like to get an estimate of average trip duration breakdown by gender to see if the bike usage pattern differs among genders. For this, we would like to get average measure of trip broken down by genders. A possible visualization for this is to select the **Tripduration (avegare)** as the measure and the **gender** as a **label mark**. Since we will get only three values, any visualization will work; the circle visualization will work better where the size of the circle corresponds to the average of each gender. In fact, this visualization is [here](https://public.tableau.com/app/profile/swapna.drawid/viz/bikesharing8/Sheet1).
