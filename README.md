@@ -26,7 +26,7 @@ The following seven results are presented to the investors.
 | 7 | Male subscribers by far outnumber all other user types. Their demand peaks at Thursdays. | [User Trips by Gender](https://public.tableau.com/app/profile/swapna.drawid/viz/bikesharing4/Sheet4) |
 
 
-# Conclusions and Future
+# Conclusions and Future Work
 
 The company looks promosing to the investors.
 * An overwhelming majority of its users are that of subscribers. The company also has an automated system in place to check bikes out for its subscribers are reserve them.
